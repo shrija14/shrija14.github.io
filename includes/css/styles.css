@@ -4,7 +4,7 @@ body {
 }
 
 #nav {
-  background-color: #fff;
+  background-color: #141526;
   padding: 15px;
   position: fixed;
   right: 0;
@@ -19,10 +19,11 @@ body {
 #nav a {
   vertical-align: center;
   text-align: center;
-  color: rgb(85,172,238);
+  color: #fff;
 }
 #nav a:hover {
-  color: rgba(0,7,13, 0.9);
+  /* color: rgba(0,7,13, 0.9); */
+  color: rgb(85,172,238)
 }
 #nav ul {
     list-style-type: none;
